@@ -1,4 +1,4 @@
-const AUDIO_SRC = "romantic.wav";
+const AUDIO_SRC = "romantic_vj.wav";
 
 const audioEl = document.getElementById("bg-audio");
 audioEl.src = AUDIO_SRC;
